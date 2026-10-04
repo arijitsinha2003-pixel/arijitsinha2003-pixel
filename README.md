@@ -278,6 +278,31 @@ with the goal of making healthcare information management more efficient.
 ---
 
 # 📚 Currently Learning
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🔥%2063-Contributions%20in%20the%20Last%20Year-orange?style=for-the-badge" />
+
+<br><br>
+
+### 🚀 63 Contributions
+
+**Building projects • Learning new technologies • Solving problems**
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arijitsinha2003-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsinha2003-pixel&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ```text
 AI / ML
