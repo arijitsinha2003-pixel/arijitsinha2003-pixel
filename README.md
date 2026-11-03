@@ -1,130 +1,102 @@
 
-<!-- ===================================================== -->
-<!--                    HEADER BANNER                       -->
-<!-- ===================================================== -->
+# 👋 Hey, I'm Arijit Sinha
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arijit%20Sinha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=57&descSize=16" width="100%" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" alt="Waving hand"/>
+  <span style="font-size: 30px; font-weight: bold;">Hey, I'm Arijit Sinha</span>
 </p>
 
-<!-- ===================================================== -->
-<!--                    PROFILE VIEWS                       -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijitsinha2003-pixel&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/arijitsinha2003-pixel?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/arijitsinha2003-pixel?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Science%20Undergraduate-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-0D1117?style=flat-square" />
 </p>
 
-<!-- ===================================================== -->
-<!--                    INTRODUCTION                        -->
-<!-- ===================================================== -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=Building+things+that+matter;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real+products;Learning.+Building.+Innovating." alt="Typing SVG"/>
+</p>
 
-<h2 align="center">
-  👋 Hi, I'm Arijit Sinha
-</h2>
-
-<h3 align="center">
-  🚀 Building Intelligent Solutions for Real-World Problems
-</h3>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/arijitsinha2003-pixel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arijit-sinha-895b49321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arijitsinha2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=arijitsinha2003-pixel&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Computer Science & Engineering undergraduate** interested in building scalable software, intelligent systems, and technology-driven solutions that make a real-world impact.
+I'm **Arijit Sinha**, a Computer Science & Engineering undergraduate passionate about turning ideas into practical software solutions.
 
-- 🎓 3rd Year Computer Science & Engineering Undergraduate
-- 💻 Software Developer
+My interests span across **Full-Stack Development, Artificial Intelligence, Machine Learning, and intelligent applications**.
+
+I enjoy experimenting with technologies, solving problems, participating in hackathons, and building applications that address real-world challenges.
+
+- 🎓 Computer Science & Engineering Undergraduate
+- 💻 Full-Stack Developer
 - 🤖 AI / ML Enthusiast
-- 🌐 Full-Stack Web Developer
-- 🧠 Problem Solver
-- 🏥 Interested in Healthcare Technology
-- 🇮🇳 India
-
-I enjoy transforming ideas into practical applications through programming, problem-solving, and continuous learning.
+- 🌐 Interested in modern web technologies
+- 🧠 Exploring Data Structures & Algorithms
+- 🏥 Passionate about healthcare technology
+- 🚀 Two-time Smart India Hackathon college-level selection
+- 📍 India
 
 ---
 
 ## 🎓 Education & Academics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-Undergraduate-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20CGPA-8.41%2F10-success?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-Undergraduate-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.41%2F10-16A34A?style=for-the-badge"/>
 </p>
 
 | Academic Details | Information |
 |---|---|
-| 🎓 Degree | Computer Science & Engineering |
-| 📚 Academic Year | 3rd Year Undergraduate |
-| 📊 Current CGPA | **8.41 / 10.00** |
-| 🏫 Institution | [B. P. Poddar Institute Of Management & Technology] |
-| 🇮🇳 Location | West Bengal, India |
+| Degree | Computer Science & Engineering |
+| Current Year | 3rd Year Undergraduate |
+| Current CGPA | **8.41 / 10.00** |
+| Institution | [Your College Name] |
+| Location | West Bengal, India |
 
-### 🏆 Academic Achievements
+### 🏆 Achievements
 
-- 🚀 Smart India Hackathon – Two-time participant.
-- 🎯 Selected at College Level for SIH on two occasions.
-- 📈 Maintaining an academic CGPA of 8.41.
-
----
-
-## 🛠️ Tech Stack & Technologies
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
-</p>
-
-### 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" />
-</p>
-
-### 🔥 Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+- 🚀 Participated in Smart India Hackathon twice.
+- 🎯 Selected at college level on both occasions.
+- 📊 Maintaining an academic CGPA of 8.41.
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 What I Like Building
 
-| Category | Skills |
-|---|---|
-| Programming | C, C++, Java, Python, JavaScript, TypeScript |
-| Frontend | HTML, CSS, React, Next.js |
-| Backend | Node.js |
-| AI / ML | AI-powered Applications, Intelligent Systems |
-| Problem Solving | DSA, Algorithms, Recursion, Backtracking |
-| Tools | Git, GitHub, VS Code, Firebase |
-| Domain | Healthcare & Social Impact Technology |
+I enjoy working on projects where multiple technologies come together to solve real-world problems.
+
+```text
+        💡 Idea
+          |
+          ▼
+    🧠 Problem Solving
+          |
+          ▼
+   ⚙️ Software Development
+          |
+      ┌───┴────┐
+      ▼        ▼
+   🌐 Web     🤖 AI/ML
+      |        |
+      └───┬────┘
+          ▼
+    🚀 Working Product
+```
+
+My interests include:
+
+**AI-powered applications · Healthcare Technology · Full-Stack Systems · Intelligent Dashboards · Automation · Data & ML · Developer Tools**
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Featured Projects
 
 ### 🏥 1. MediLab Drug Store Information System
 
@@ -134,28 +106,28 @@ A healthcare management ecosystem designed to connect:
 - 🧪 Medical Laboratories
 - 💊 Drug Stores
 
-**Goal:** Making healthcare information management more efficient and connected.
+**Goal:** Improving healthcare information management and coordination.
 
-**Tech Stack:** TypeScript • React • Node.js
+**Tech Stack:** TypeScript · React · Node.js
 
 ---
 
 ### 💊 2. MediMinder AI
 
-An intelligent healthcare assistant designed to support:
+An intelligent healthcare assistant concept focused on:
 
 - ⏰ Medicine Reminders
 - 🤖 AI-driven Health Guidance
 - 💊 Medication Management
 - 🧠 Intelligent Assistance
 
-**Tech Stack:** TypeScript • AI • Web Development
+**Tech Stack:** TypeScript · AI · Web Development
 
 ---
 
 ### 🛡️ 3. Suraksha AI
 
-A public safety and case-intelligence platform featuring:
+A public safety and case-intelligence platform exploring:
 
 - 🚨 Incident Reporting
 - 📍 Spatial-Temporal Pattern Analysis
@@ -177,92 +149,140 @@ An Indian public welfare platform focused on:
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
-<h3 align="center">📈 GitHub Statistics</h3>
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css&theme=dark"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark"/>
+</p>
+
+### 🔧 Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+### 🤖 AI / ML Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Generative AI
+AI-powered Applications
+Intelligent Systems
+Data-driven Solutions
+```
+
+---
+
+## 🧠 Currently Learning
+
+```text
+├── Advanced Programming
+├── Data Structures & Algorithms
+├── Artificial Intelligence
+├── Machine Learning
+├── Full-Stack Development
+├── Backend Engineering
+├── Database Management
+├── System Design Fundamentals
+└── Production-ready Software Development
+```
+
+---
+
+## 🏅 Hackathons & Achievements
+
+### 🚀 Smart India Hackathon
+
+- Two-time participant.
+- Selected at college level on both occasions.
+- Experience in collaborative problem-solving and hackathon-oriented development.
+
+### 📊 Academic Achievement
+
+- Current CGPA: **8.41 / 10.00**
+
+---
+
+# 📊 GitHub Analytics
+
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=arijitsinha2003-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" width="49%" src="https://streak-stats.demolab.com?user=arijitsinha2003-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arijitsinha2003-pixel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=arijitsinha2003-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<h3 align="center">💻 Most Used Programming Languages</h3>
+### 💻 Most Used Languages
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitsinha2003-pixel&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitsinha2003-pixel&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arijitsinha2003-pixel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arijitsinha2003-pixel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-<h3 align="center">📉 Contribution Activity Graph</h3>
+### 📉 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arijitsinha2003-pixel&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="Contribution Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arijitsinha2003-pixel&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🌱 Currently Working On
+## 🎯 My 2026 Goals
 
-### 🔬 MediLab Drug Store Information System
-
-Developing an integrated healthcare management platform that aims to improve coordination between hospitals, medical laboratories, and drug stores.
-
-### 🎯 Current Focus
-
-- Improving Data Structures & Algorithms.
-- Exploring AI/ML applications.
-- Building scalable full-stack applications.
-- Developing meaningful healthcare technology solutions.
+- [ ] Improve Data Structures & Algorithms.
+- [ ] Build production-quality applications.
+- [ ] Explore AI and Machine Learning deeply.
+- [ ] Improve backend development skills.
+- [ ] Contribute to open source.
+- [ ] Participate in more hackathons.
+- [ ] Become internship-ready.
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-I'm interested in collaborating on:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🏥 Healthcare Technology
-- 🌐 Full-Stack Applications
-- 🌍 Social Impact Projects
-- 🔓 Open Source Contributions
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/arijitsinha2003-pixel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/arijit-sinha-895b49321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arijitsinha2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">
-  💡 "Code. Innovate. Solve. Repeat."
-</h3>
-
 <p align="center">
-  ⭐ Thank you for visiting my profile!
+  <h3 align="center">💭 "Build. Innovate. Learn. Repeat."</h3>
+  <p align="center">⭐ Thanks for visiting my GitHub profile!</p>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
-</p>
