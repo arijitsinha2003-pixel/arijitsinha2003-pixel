@@ -71,8 +71,8 @@ I enjoy transforming ideas into practical applications through programming, prob
 | 🎓 Degree | Computer Science & Engineering |
 | 📚 Academic Year | 3rd Year Undergraduate |
 | 📊 Current CGPA | **8.41 / 10.00** |
-| 🏫 Institution | B. P. Poddar Institute of Management and Technology |
-| 🇮🇳 Location | Kolkata, West Bengal, India |
+| 🏫 Institution | [B. P. Poddar Institute Of Management & Technology] |
+| 🇮🇳 Location | West Bengal, India |
 
 ### 🏆 Academic Achievements
 
