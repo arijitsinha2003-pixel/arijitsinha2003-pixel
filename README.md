@@ -57,7 +57,7 @@ I enjoy experimenting with technologies, solving problems, participating in hack
 | Degree | Computer Science & Engineering |
 | Current Year | 3rd Year Undergraduate |
 | Current CGPA | **8.41 / 10.00** |
-| Institution | [Your College Name] |
+| Institution | B.P.Poddar Institute of Management and Technology |
 | Location | West Bengal, India |
 
 ### 🏆 Achievements
